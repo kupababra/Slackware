@@ -1,2 +1,0 @@
-# Slackware
-Just slack.
