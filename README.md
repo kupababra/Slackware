@@ -22,7 +22,7 @@ Each script uses **absolute binary paths** for Slackware style purity.
 
 ## 🤝 Contributing
 
-Pull requests are welcome!  
+Don't forget lilo -v ;)
 ⭐ Star this repository if you love retro computing.  
 Ideas, bug reports and improvements are always appreciated.
 
